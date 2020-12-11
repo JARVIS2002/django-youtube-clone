@@ -1,0 +1,11 @@
+make a view for the home page
+--make a login and a signup button and page
+--make a search box
+make a view for upload page
+--make a video class
+--make a user class
+--if someone wants to upload a login is required
+a view for update your video
+a view for delete a video
+a view for the history page
+a comment class and section
